@@ -1,3 +1,3 @@
 # practice
-this is my test repository
+This is my Test Repository
 Author ~ Hashiful
